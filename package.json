@@ -1,0 +1,11 @@
+{
+  "name": "glowingleads-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node serve.mjs"
+  },
+  "dependencies": {
+    "resend": "^4.0.0"
+  }
+}

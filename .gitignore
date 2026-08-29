@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.vercel
+
+temporary screenshots/
+
+.vercel
+.env*
+
+# Original 122-frame hero sequence, kept on disk as a local safety net.
+# Already fully recoverable from git history too, so not committed.
+frames_old_122/
