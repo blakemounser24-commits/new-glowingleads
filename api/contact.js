@@ -3,7 +3,7 @@ import { Resend } from "resend";
 // ---- Config (all per-client settings come from env vars — never edit this file per client) ----
 // Required:
 //   RESEND_API_KEY  - secret API key from resend.com
-//   CONTACT_EMAIL   - inbox that receives enquiries (e.g. glowingleads.au@gmail.com)
+//   CONTACT_EMAIL   - inbox that receives enquiries (e.g. contact@glowingleads.com.au)
 //   FROM_EMAIL      - verified sender address on your Resend domain (e.g. noreply@glowingleads.com.au)
 // Optional:
 //   FROM_NAME       - display name for the sender (defaults to SITE_NAME, then "Website")
